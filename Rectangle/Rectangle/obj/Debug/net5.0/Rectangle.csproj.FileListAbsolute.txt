@@ -1,0 +1,15 @@
+D:\vs project\Rectangle\Rectangle\bin\Debug\net5.0\Rectangle.exe
+D:\vs project\Rectangle\Rectangle\bin\Debug\net5.0\Rectangle.deps.json
+D:\vs project\Rectangle\Rectangle\bin\Debug\net5.0\Rectangle.runtimeconfig.json
+D:\vs project\Rectangle\Rectangle\bin\Debug\net5.0\Rectangle.runtimeconfig.dev.json
+D:\vs project\Rectangle\Rectangle\bin\Debug\net5.0\Rectangle.dll
+D:\vs project\Rectangle\Rectangle\bin\Debug\net5.0\ref\Rectangle.dll
+D:\vs project\Rectangle\Rectangle\bin\Debug\net5.0\Rectangle.pdb
+D:\vs project\Rectangle\Rectangle\obj\Debug\net5.0\Rectangle.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs project\Rectangle\Rectangle\obj\Debug\net5.0\Rectangle.AssemblyInfoInputs.cache
+D:\vs project\Rectangle\Rectangle\obj\Debug\net5.0\Rectangle.AssemblyInfo.cs
+D:\vs project\Rectangle\Rectangle\obj\Debug\net5.0\Rectangle.csproj.CoreCompileInputs.cache
+D:\vs project\Rectangle\Rectangle\obj\Debug\net5.0\Rectangle.dll
+D:\vs project\Rectangle\Rectangle\obj\Debug\net5.0\ref\Rectangle.dll
+D:\vs project\Rectangle\Rectangle\obj\Debug\net5.0\Rectangle.pdb
+D:\vs project\Rectangle\Rectangle\obj\Debug\net5.0\Rectangle.genruntimeconfig.cache
