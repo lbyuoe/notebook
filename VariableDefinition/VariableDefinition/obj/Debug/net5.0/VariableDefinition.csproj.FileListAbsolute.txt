@@ -1,0 +1,15 @@
+D:\vs project\VariableDefinition\VariableDefinition\bin\Debug\net5.0\VariableDefinition.exe
+D:\vs project\VariableDefinition\VariableDefinition\bin\Debug\net5.0\VariableDefinition.deps.json
+D:\vs project\VariableDefinition\VariableDefinition\bin\Debug\net5.0\VariableDefinition.runtimeconfig.json
+D:\vs project\VariableDefinition\VariableDefinition\bin\Debug\net5.0\VariableDefinition.runtimeconfig.dev.json
+D:\vs project\VariableDefinition\VariableDefinition\bin\Debug\net5.0\VariableDefinition.dll
+D:\vs project\VariableDefinition\VariableDefinition\bin\Debug\net5.0\ref\VariableDefinition.dll
+D:\vs project\VariableDefinition\VariableDefinition\bin\Debug\net5.0\VariableDefinition.pdb
+D:\vs project\VariableDefinition\VariableDefinition\obj\Debug\net5.0\VariableDefinition.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs project\VariableDefinition\VariableDefinition\obj\Debug\net5.0\VariableDefinition.AssemblyInfoInputs.cache
+D:\vs project\VariableDefinition\VariableDefinition\obj\Debug\net5.0\VariableDefinition.AssemblyInfo.cs
+D:\vs project\VariableDefinition\VariableDefinition\obj\Debug\net5.0\VariableDefinition.csproj.CoreCompileInputs.cache
+D:\vs project\VariableDefinition\VariableDefinition\obj\Debug\net5.0\VariableDefinition.dll
+D:\vs project\VariableDefinition\VariableDefinition\obj\Debug\net5.0\ref\VariableDefinition.dll
+D:\vs project\VariableDefinition\VariableDefinition\obj\Debug\net5.0\VariableDefinition.pdb
+D:\vs project\VariableDefinition\VariableDefinition\obj\Debug\net5.0\VariableDefinition.genruntimeconfig.cache
