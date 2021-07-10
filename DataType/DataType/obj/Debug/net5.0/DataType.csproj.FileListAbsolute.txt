@@ -1,0 +1,15 @@
+D:\vs project\DataType\DataType\bin\Debug\net5.0\DataType.exe
+D:\vs project\DataType\DataType\bin\Debug\net5.0\DataType.deps.json
+D:\vs project\DataType\DataType\bin\Debug\net5.0\DataType.runtimeconfig.json
+D:\vs project\DataType\DataType\bin\Debug\net5.0\DataType.runtimeconfig.dev.json
+D:\vs project\DataType\DataType\bin\Debug\net5.0\DataType.dll
+D:\vs project\DataType\DataType\bin\Debug\net5.0\ref\DataType.dll
+D:\vs project\DataType\DataType\bin\Debug\net5.0\DataType.pdb
+D:\vs project\DataType\DataType\obj\Debug\net5.0\DataType.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs project\DataType\DataType\obj\Debug\net5.0\DataType.AssemblyInfoInputs.cache
+D:\vs project\DataType\DataType\obj\Debug\net5.0\DataType.AssemblyInfo.cs
+D:\vs project\DataType\DataType\obj\Debug\net5.0\DataType.csproj.CoreCompileInputs.cache
+D:\vs project\DataType\DataType\obj\Debug\net5.0\DataType.dll
+D:\vs project\DataType\DataType\obj\Debug\net5.0\ref\DataType.dll
+D:\vs project\DataType\DataType\obj\Debug\net5.0\DataType.pdb
+D:\vs project\DataType\DataType\obj\Debug\net5.0\DataType.genruntimeconfig.cache
