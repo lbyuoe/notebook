@@ -1,0 +1,15 @@
+D:\vs project\TypeConversion\TypeConversion\bin\Debug\net5.0\TypeConversion.exe
+D:\vs project\TypeConversion\TypeConversion\bin\Debug\net5.0\TypeConversion.deps.json
+D:\vs project\TypeConversion\TypeConversion\bin\Debug\net5.0\TypeConversion.runtimeconfig.json
+D:\vs project\TypeConversion\TypeConversion\bin\Debug\net5.0\TypeConversion.runtimeconfig.dev.json
+D:\vs project\TypeConversion\TypeConversion\bin\Debug\net5.0\TypeConversion.dll
+D:\vs project\TypeConversion\TypeConversion\bin\Debug\net5.0\ref\TypeConversion.dll
+D:\vs project\TypeConversion\TypeConversion\bin\Debug\net5.0\TypeConversion.pdb
+D:\vs project\TypeConversion\TypeConversion\obj\Debug\net5.0\TypeConversion.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs project\TypeConversion\TypeConversion\obj\Debug\net5.0\TypeConversion.AssemblyInfoInputs.cache
+D:\vs project\TypeConversion\TypeConversion\obj\Debug\net5.0\TypeConversion.AssemblyInfo.cs
+D:\vs project\TypeConversion\TypeConversion\obj\Debug\net5.0\TypeConversion.csproj.CoreCompileInputs.cache
+D:\vs project\TypeConversion\TypeConversion\obj\Debug\net5.0\TypeConversion.dll
+D:\vs project\TypeConversion\TypeConversion\obj\Debug\net5.0\ref\TypeConversion.dll
+D:\vs project\TypeConversion\TypeConversion\obj\Debug\net5.0\TypeConversion.pdb
+D:\vs project\TypeConversion\TypeConversion\obj\Debug\net5.0\TypeConversion.genruntimeconfig.cache
