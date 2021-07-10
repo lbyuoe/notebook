@@ -1,0 +1,16 @@
+D:\vs project\ReferenceType\ReferenceType\obj\Debug\net5.0\ReferenceType.csproj.AssemblyReference.cache
+D:\vs project\ReferenceType\ReferenceType\obj\Debug\net5.0\ReferenceType.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs project\ReferenceType\ReferenceType\obj\Debug\net5.0\ReferenceType.AssemblyInfoInputs.cache
+D:\vs project\ReferenceType\ReferenceType\obj\Debug\net5.0\ReferenceType.AssemblyInfo.cs
+D:\vs project\ReferenceType\ReferenceType\obj\Debug\net5.0\ReferenceType.csproj.CoreCompileInputs.cache
+D:\vs project\ReferenceType\ReferenceType\bin\Debug\net5.0\ReferenceType.exe
+D:\vs project\ReferenceType\ReferenceType\bin\Debug\net5.0\ReferenceType.deps.json
+D:\vs project\ReferenceType\ReferenceType\bin\Debug\net5.0\ReferenceType.runtimeconfig.json
+D:\vs project\ReferenceType\ReferenceType\bin\Debug\net5.0\ReferenceType.runtimeconfig.dev.json
+D:\vs project\ReferenceType\ReferenceType\bin\Debug\net5.0\ReferenceType.dll
+D:\vs project\ReferenceType\ReferenceType\bin\Debug\net5.0\ref\ReferenceType.dll
+D:\vs project\ReferenceType\ReferenceType\bin\Debug\net5.0\ReferenceType.pdb
+D:\vs project\ReferenceType\ReferenceType\obj\Debug\net5.0\ReferenceType.dll
+D:\vs project\ReferenceType\ReferenceType\obj\Debug\net5.0\ref\ReferenceType.dll
+D:\vs project\ReferenceType\ReferenceType\obj\Debug\net5.0\ReferenceType.pdb
+D:\vs project\ReferenceType\ReferenceType\obj\Debug\net5.0\ReferenceType.genruntimeconfig.cache
