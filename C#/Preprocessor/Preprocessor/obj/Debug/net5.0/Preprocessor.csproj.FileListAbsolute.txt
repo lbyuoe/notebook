@@ -1,0 +1,15 @@
+D:\vs project\Preprocessor\Preprocessor\bin\Debug\net5.0\Preprocessor.exe
+D:\vs project\Preprocessor\Preprocessor\bin\Debug\net5.0\Preprocessor.deps.json
+D:\vs project\Preprocessor\Preprocessor\bin\Debug\net5.0\Preprocessor.runtimeconfig.json
+D:\vs project\Preprocessor\Preprocessor\bin\Debug\net5.0\Preprocessor.runtimeconfig.dev.json
+D:\vs project\Preprocessor\Preprocessor\bin\Debug\net5.0\Preprocessor.dll
+D:\vs project\Preprocessor\Preprocessor\bin\Debug\net5.0\ref\Preprocessor.dll
+D:\vs project\Preprocessor\Preprocessor\bin\Debug\net5.0\Preprocessor.pdb
+D:\vs project\Preprocessor\Preprocessor\obj\Debug\net5.0\Preprocessor.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs project\Preprocessor\Preprocessor\obj\Debug\net5.0\Preprocessor.AssemblyInfoInputs.cache
+D:\vs project\Preprocessor\Preprocessor\obj\Debug\net5.0\Preprocessor.AssemblyInfo.cs
+D:\vs project\Preprocessor\Preprocessor\obj\Debug\net5.0\Preprocessor.csproj.CoreCompileInputs.cache
+D:\vs project\Preprocessor\Preprocessor\obj\Debug\net5.0\Preprocessor.dll
+D:\vs project\Preprocessor\Preprocessor\obj\Debug\net5.0\ref\Preprocessor.dll
+D:\vs project\Preprocessor\Preprocessor\obj\Debug\net5.0\Preprocessor.pdb
+D:\vs project\Preprocessor\Preprocessor\obj\Debug\net5.0\Preprocessor.genruntimeconfig.cache
