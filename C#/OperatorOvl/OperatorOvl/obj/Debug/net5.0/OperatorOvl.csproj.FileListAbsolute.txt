@@ -1,0 +1,15 @@
+D:\vs project\OperatorOvl\OperatorOvl\bin\Debug\net5.0\OperatorOvl.exe
+D:\vs project\OperatorOvl\OperatorOvl\bin\Debug\net5.0\OperatorOvl.deps.json
+D:\vs project\OperatorOvl\OperatorOvl\bin\Debug\net5.0\OperatorOvl.runtimeconfig.json
+D:\vs project\OperatorOvl\OperatorOvl\bin\Debug\net5.0\OperatorOvl.runtimeconfig.dev.json
+D:\vs project\OperatorOvl\OperatorOvl\bin\Debug\net5.0\OperatorOvl.dll
+D:\vs project\OperatorOvl\OperatorOvl\bin\Debug\net5.0\ref\OperatorOvl.dll
+D:\vs project\OperatorOvl\OperatorOvl\bin\Debug\net5.0\OperatorOvl.pdb
+D:\vs project\OperatorOvl\OperatorOvl\obj\Debug\net5.0\OperatorOvl.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs project\OperatorOvl\OperatorOvl\obj\Debug\net5.0\OperatorOvl.AssemblyInfoInputs.cache
+D:\vs project\OperatorOvl\OperatorOvl\obj\Debug\net5.0\OperatorOvl.AssemblyInfo.cs
+D:\vs project\OperatorOvl\OperatorOvl\obj\Debug\net5.0\OperatorOvl.csproj.CoreCompileInputs.cache
+D:\vs project\OperatorOvl\OperatorOvl\obj\Debug\net5.0\OperatorOvl.dll
+D:\vs project\OperatorOvl\OperatorOvl\obj\Debug\net5.0\ref\OperatorOvl.dll
+D:\vs project\OperatorOvl\OperatorOvl\obj\Debug\net5.0\OperatorOvl.pdb
+D:\vs project\OperatorOvl\OperatorOvl\obj\Debug\net5.0\OperatorOvl.genruntimeconfig.cache
