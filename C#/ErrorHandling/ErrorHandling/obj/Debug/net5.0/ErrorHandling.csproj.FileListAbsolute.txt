@@ -1,0 +1,15 @@
+D:\vs project\ErrorHandling\ErrorHandling\bin\Debug\net5.0\ErrorHandling.exe
+D:\vs project\ErrorHandling\ErrorHandling\bin\Debug\net5.0\ErrorHandling.deps.json
+D:\vs project\ErrorHandling\ErrorHandling\bin\Debug\net5.0\ErrorHandling.runtimeconfig.json
+D:\vs project\ErrorHandling\ErrorHandling\bin\Debug\net5.0\ErrorHandling.runtimeconfig.dev.json
+D:\vs project\ErrorHandling\ErrorHandling\bin\Debug\net5.0\ErrorHandling.dll
+D:\vs project\ErrorHandling\ErrorHandling\bin\Debug\net5.0\ref\ErrorHandling.dll
+D:\vs project\ErrorHandling\ErrorHandling\bin\Debug\net5.0\ErrorHandling.pdb
+D:\vs project\ErrorHandling\ErrorHandling\obj\Debug\net5.0\ErrorHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs project\ErrorHandling\ErrorHandling\obj\Debug\net5.0\ErrorHandling.AssemblyInfoInputs.cache
+D:\vs project\ErrorHandling\ErrorHandling\obj\Debug\net5.0\ErrorHandling.AssemblyInfo.cs
+D:\vs project\ErrorHandling\ErrorHandling\obj\Debug\net5.0\ErrorHandling.csproj.CoreCompileInputs.cache
+D:\vs project\ErrorHandling\ErrorHandling\obj\Debug\net5.0\ErrorHandling.dll
+D:\vs project\ErrorHandling\ErrorHandling\obj\Debug\net5.0\ref\ErrorHandling.dll
+D:\vs project\ErrorHandling\ErrorHandling\obj\Debug\net5.0\ErrorHandling.pdb
+D:\vs project\ErrorHandling\ErrorHandling\obj\Debug\net5.0\ErrorHandling.genruntimeconfig.cache
