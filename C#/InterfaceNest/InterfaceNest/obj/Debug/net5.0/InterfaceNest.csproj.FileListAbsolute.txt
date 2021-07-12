@@ -1,0 +1,15 @@
+D:\vs project\InterfaceNest\InterfaceNest\bin\Debug\net5.0\InterfaceNest.exe
+D:\vs project\InterfaceNest\InterfaceNest\bin\Debug\net5.0\InterfaceNest.deps.json
+D:\vs project\InterfaceNest\InterfaceNest\bin\Debug\net5.0\InterfaceNest.runtimeconfig.json
+D:\vs project\InterfaceNest\InterfaceNest\bin\Debug\net5.0\InterfaceNest.runtimeconfig.dev.json
+D:\vs project\InterfaceNest\InterfaceNest\bin\Debug\net5.0\InterfaceNest.dll
+D:\vs project\InterfaceNest\InterfaceNest\bin\Debug\net5.0\ref\InterfaceNest.dll
+D:\vs project\InterfaceNest\InterfaceNest\bin\Debug\net5.0\InterfaceNest.pdb
+D:\vs project\InterfaceNest\InterfaceNest\obj\Debug\net5.0\InterfaceNest.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs project\InterfaceNest\InterfaceNest\obj\Debug\net5.0\InterfaceNest.AssemblyInfoInputs.cache
+D:\vs project\InterfaceNest\InterfaceNest\obj\Debug\net5.0\InterfaceNest.AssemblyInfo.cs
+D:\vs project\InterfaceNest\InterfaceNest\obj\Debug\net5.0\InterfaceNest.csproj.CoreCompileInputs.cache
+D:\vs project\InterfaceNest\InterfaceNest\obj\Debug\net5.0\InterfaceNest.dll
+D:\vs project\InterfaceNest\InterfaceNest\obj\Debug\net5.0\ref\InterfaceNest.dll
+D:\vs project\InterfaceNest\InterfaceNest\obj\Debug\net5.0\InterfaceNest.pdb
+D:\vs project\InterfaceNest\InterfaceNest\obj\Debug\net5.0\InterfaceNest.genruntimeconfig.cache
