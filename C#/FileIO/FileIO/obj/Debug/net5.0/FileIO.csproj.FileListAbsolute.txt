@@ -1,0 +1,15 @@
+D:\vs project\FileIO\FileIO\bin\Debug\net5.0\FileIO.exe
+D:\vs project\FileIO\FileIO\bin\Debug\net5.0\FileIO.deps.json
+D:\vs project\FileIO\FileIO\bin\Debug\net5.0\FileIO.runtimeconfig.json
+D:\vs project\FileIO\FileIO\bin\Debug\net5.0\FileIO.runtimeconfig.dev.json
+D:\vs project\FileIO\FileIO\bin\Debug\net5.0\FileIO.dll
+D:\vs project\FileIO\FileIO\bin\Debug\net5.0\ref\FileIO.dll
+D:\vs project\FileIO\FileIO\bin\Debug\net5.0\FileIO.pdb
+D:\vs project\FileIO\FileIO\obj\Debug\net5.0\FileIO.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs project\FileIO\FileIO\obj\Debug\net5.0\FileIO.AssemblyInfoInputs.cache
+D:\vs project\FileIO\FileIO\obj\Debug\net5.0\FileIO.AssemblyInfo.cs
+D:\vs project\FileIO\FileIO\obj\Debug\net5.0\FileIO.csproj.CoreCompileInputs.cache
+D:\vs project\FileIO\FileIO\obj\Debug\net5.0\FileIO.dll
+D:\vs project\FileIO\FileIO\obj\Debug\net5.0\ref\FileIO.dll
+D:\vs project\FileIO\FileIO\obj\Debug\net5.0\FileIO.pdb
+D:\vs project\FileIO\FileIO\obj\Debug\net5.0\FileIO.genruntimeconfig.cache
