@@ -1,0 +1,15 @@
+D:\vs project\UserDefinedException\UserDefinedException\bin\Debug\net5.0\UserDefinedException.exe
+D:\vs project\UserDefinedException\UserDefinedException\bin\Debug\net5.0\UserDefinedException.deps.json
+D:\vs project\UserDefinedException\UserDefinedException\bin\Debug\net5.0\UserDefinedException.runtimeconfig.json
+D:\vs project\UserDefinedException\UserDefinedException\bin\Debug\net5.0\UserDefinedException.runtimeconfig.dev.json
+D:\vs project\UserDefinedException\UserDefinedException\bin\Debug\net5.0\UserDefinedException.dll
+D:\vs project\UserDefinedException\UserDefinedException\bin\Debug\net5.0\ref\UserDefinedException.dll
+D:\vs project\UserDefinedException\UserDefinedException\bin\Debug\net5.0\UserDefinedException.pdb
+D:\vs project\UserDefinedException\UserDefinedException\obj\Debug\net5.0\UserDefinedException.GeneratedMSBuildEditorConfig.editorconfig
+D:\vs project\UserDefinedException\UserDefinedException\obj\Debug\net5.0\UserDefinedException.AssemblyInfoInputs.cache
+D:\vs project\UserDefinedException\UserDefinedException\obj\Debug\net5.0\UserDefinedException.AssemblyInfo.cs
+D:\vs project\UserDefinedException\UserDefinedException\obj\Debug\net5.0\UserDefinedException.csproj.CoreCompileInputs.cache
+D:\vs project\UserDefinedException\UserDefinedException\obj\Debug\net5.0\UserDefinedException.dll
+D:\vs project\UserDefinedException\UserDefinedException\obj\Debug\net5.0\ref\UserDefinedException.dll
+D:\vs project\UserDefinedException\UserDefinedException\obj\Debug\net5.0\UserDefinedException.pdb
+D:\vs project\UserDefinedException\UserDefinedException\obj\Debug\net5.0\UserDefinedException.genruntimeconfig.cache
