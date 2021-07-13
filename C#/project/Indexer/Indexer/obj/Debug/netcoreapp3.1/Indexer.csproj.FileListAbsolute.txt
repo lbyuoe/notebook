@@ -1,0 +1,13 @@
+D:\vs project\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.exe
+D:\vs project\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.deps.json
+D:\vs project\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.json
+D:\vs project\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.runtimeconfig.dev.json
+D:\vs project\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.dll
+D:\vs project\Indexer\Indexer\bin\Debug\netcoreapp3.1\Indexer.pdb
+D:\vs project\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.csproj.AssemblyReference.cache
+D:\vs project\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfoInputs.cache
+D:\vs project\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.AssemblyInfo.cs
+D:\vs project\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.csproj.CoreCompileInputs.cache
+D:\vs project\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.dll
+D:\vs project\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.pdb
+D:\vs project\Indexer\Indexer\obj\Debug\netcoreapp3.1\Indexer.genruntimeconfig.cache
