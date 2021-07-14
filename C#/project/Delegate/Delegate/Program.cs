@@ -1,33 +1,20 @@
 ﻿using System;
 
-delegate int NumberChanger(int n);
+// 声明委托，声明固定签名的函数指针
+delegate int Converter(int i);
 
-namespace DelegateAppl {
-    class TestDelegate {
-        static int num = 10;
-        public static int AddNum(int p) {
-            num += p;
-            return num;
-        }
-
-        public static int MultNum(int q) {
-            num *= q;
-            return num;
-        }
-        public static int getNum() {
-            return num;
-        }
-
+namespace Lambda {
+    class Program {
         static void Main(string[] args) {
-            // 创建委托实例
-            NumberChanger nc1 = new NumberChanger(AddNum);
-            NumberChanger nc2 = new NumberChanger(MultNum);
-            // 使用委托对象调用方法
-            nc1(25);
-            Console.WriteLine("Value of Num: {0}", getNum());
-            nc2(5);
-            Console.WriteLine("Value of Num: {0}", getNum());
-            Console.ReadKey();
+            // 实例化委托，创建函数指针变量，并赋值到将要调用的函数
+            Converter sqr = a;
+            // 调用委托实例，通过函数指针调用函数
+            Console.WriteLine(sqr(3));  // 9
+        }
+
+        // 定义将要调用的函数
+        static int a(int x) {
+            return x * x;
         }
     }
 }
