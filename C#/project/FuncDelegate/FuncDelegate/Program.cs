@@ -16,11 +16,7 @@ namespace ConsoleApp2 {
         }
 
         public static bool easy(int a, int b) {
-            if (a < b) {
-                return false;
-            } else {
-                return true;
-            }
+            return a > b;
         }
 
         public enum SortType {
