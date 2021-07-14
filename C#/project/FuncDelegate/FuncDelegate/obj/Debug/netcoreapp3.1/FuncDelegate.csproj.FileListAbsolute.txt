@@ -1,0 +1,13 @@
+D:\vs project\FuncDelegate\FuncDelegate\bin\Debug\netcoreapp3.1\FuncDelegate.exe
+D:\vs project\FuncDelegate\FuncDelegate\bin\Debug\netcoreapp3.1\FuncDelegate.deps.json
+D:\vs project\FuncDelegate\FuncDelegate\bin\Debug\netcoreapp3.1\FuncDelegate.runtimeconfig.json
+D:\vs project\FuncDelegate\FuncDelegate\bin\Debug\netcoreapp3.1\FuncDelegate.runtimeconfig.dev.json
+D:\vs project\FuncDelegate\FuncDelegate\bin\Debug\netcoreapp3.1\FuncDelegate.dll
+D:\vs project\FuncDelegate\FuncDelegate\bin\Debug\netcoreapp3.1\FuncDelegate.pdb
+D:\vs project\FuncDelegate\FuncDelegate\obj\Debug\netcoreapp3.1\FuncDelegate.csproj.AssemblyReference.cache
+D:\vs project\FuncDelegate\FuncDelegate\obj\Debug\netcoreapp3.1\FuncDelegate.AssemblyInfoInputs.cache
+D:\vs project\FuncDelegate\FuncDelegate\obj\Debug\netcoreapp3.1\FuncDelegate.AssemblyInfo.cs
+D:\vs project\FuncDelegate\FuncDelegate\obj\Debug\netcoreapp3.1\FuncDelegate.csproj.CoreCompileInputs.cache
+D:\vs project\FuncDelegate\FuncDelegate\obj\Debug\netcoreapp3.1\FuncDelegate.dll
+D:\vs project\FuncDelegate\FuncDelegate\obj\Debug\netcoreapp3.1\FuncDelegate.pdb
+D:\vs project\FuncDelegate\FuncDelegate\obj\Debug\netcoreapp3.1\FuncDelegate.genruntimeconfig.cache
